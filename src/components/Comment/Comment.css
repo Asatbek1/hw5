@@ -1,0 +1,22 @@
+.UserInfo img {
+  width: 100px;
+  height: 70px;
+}
+
+.Comment {
+  background-color: aqua;
+}
+
+.comment-first {
+  background-color: coral;
+  box-shadow: 5px 5px 2px 4px #000000;
+}
+
+.Comment-text {
+  width: 100px;
+
+  background-color: coral;
+  display: inline-block;
+  margin-top: 10px;
+  box-shadow: 6px 6px 0px -1px #000000;
+}
